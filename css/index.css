@@ -599,9 +599,10 @@ a{
 }
 
 .h4{
-	background: url(../images/h_zhuanye_256a94d.png)no-repeat ;
+	background: url(../images/h_zhuanye_256a94d.png) no-repeat;
 	width: 66px;
 	height: 126px;
+	margin-top:-50px;
 	float: left;
 	-moz-animation: title 2s infinite 1s;
 	-webkit-animation: title 2s infinite 1s;
